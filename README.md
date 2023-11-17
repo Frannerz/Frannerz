@@ -19,7 +19,7 @@
 📫  **francesstephens@hotmail.com** or **find me on linked in!**
 
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/frances-s-stephens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frances-s-stephens/" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/frances-s-stephens/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/frances-s-stephens/" height="30" width="40" /></a>  
 </p> 
 
 
