@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning with **Founders and Coders**
 
-- ⚙️ I'm currently building a Paint It! [Paint it](https://github.com/Frannerz/paint-it).
+- ⚙️ I'm currently building [Paint it](https://github.com/Frannerz/paint-it).
 
 - 🔭 I recently collaborated on [To-Doodle](https://github.com/FAC29A/ToDoodle), a to-do list project with a focus on testing.
 
