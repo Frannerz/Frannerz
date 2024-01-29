@@ -30,7 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frannerz&show_icons=true&locale=en&layout=compact" alt="frannerz" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frannerz&" alt="frannerz" /></p>
+<br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=frannerz&" alt="frannerz" /></p>
 
 
 
