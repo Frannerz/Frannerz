@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning with **Founders and Coders**
 
-- ⚙️ I'm currently building [A blogging site]([https://github.com/Frannerz/paint-it](https://github.com/FAC29A/blogging-website)]) and [A to do list app with SQLite]([https://github.com/Frannerz/To-do-list-database])
+- ⚙️ I'm currently building [a blogging site]([https://github.com/Frannerz/paint-it](https://github.com/FAC29A/blogging-website)]) and [a to do list app with SQLite]([https://github.com/Frannerz/To-do-list-database])
 
 - (A to )https://github.com/Frannerz/To-do-list-database.
 
